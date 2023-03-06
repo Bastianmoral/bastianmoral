@@ -3,9 +3,9 @@
 
 
 ## 💾 about me!
-    -I am 32 years old, from Santiago de Chile.
-    -I like video games 🎮 and I love animals 🐮
-    -I am learning Devops in a SENCE State certification
+I am 32 years old, from Santiago de Chile.
+I like video games 🎮 and I love animals 🐮
+I am learning Devops in a SENCE State certification
 
 
 ## 📇 To connect with me
