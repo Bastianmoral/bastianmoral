@@ -1,7 +1,7 @@
 # Hi, I'm Bastián Moral!  🖐🏾
 ## A Full Stack MERN - Python Developer
-#
-#
+
+
 ## 💾 about me!
     -I am 32 years old, from Santiago de Chile.
     -I like video games 🎮 and I love animals 🐮
