@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Bastian Moral</h1>
-<h3 align="center">A Full Stack Web Developer from Chile</h3>
-
-- 🔭 I’m currently working on **A pokedex that consume an API and show very complete information of all pokémons**
-
-- 🌱 I’m currently learning **javascript and python**
-
-- 📫 How to reach me **mail me at Bastihc@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/bastian-moral-norambuena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bastian-moral-norambuena" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,)](https://skillicons.dev)
+# Hi, I'm Bastián Moral!  🖐🏾
+## A Full Stack MERN - Python Developer
+#
+#
+## 💾 about me!
+    -I am 32 years old, from Santiago de Chile.
+    -I like video games 🎮 and I love animals 🐮
+    -I am learning Devops in a SENCE State certification
 
 
+## 📇 To connect with me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastianmoral&show_icons=true&locale=en&layout=compact" alt="bastianmoral" /></p>
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastihc@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](src=https://www.linkedin.com/in/bastian-moral-norambuena/)
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianmoral&show_icons=true&locale=en" alt="bastianmoral" /></p>
+## 🔧 Lenguaje and skills 
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,html,css,sass,redux,nodejs,express,graphql,flutter,mongodb,mysql,postgresql,sqlite,aws,docker,jenkins,gcp,kubernetes,heroku,django,flask,jest,figma,postman,git,solidity,deno,githubactions,py,styledcomponents,vscode&perline=7)](https://skillicons.dev)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bastianmoral&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastianmoral&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
