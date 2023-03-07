@@ -15,7 +15,7 @@
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+56945857389)
 
 ## 🔧 Lenguaje and skills 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,html,css,sass,redux,nodejs,express,graphql,flutter,mongodb,mysql,postgresql,sqlite,aws,docker,jenkins,gcp,kubernetes,heroku,django,flask,jest,figma,postman,git,solidity,deno,githubactions,py,styledcomponents,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,html,css,sass,redux,nodejs,express,graphql,flutter,mongodb,mysql,postgresql,sqlite,aws,docker,jenkins,gcp,kubernetes,heroku,django,flask,jest,figma,postman,git,solidity,deno,githubactions,py,styledcomponents,vscode&perline=7)]
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bastianmoral&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
