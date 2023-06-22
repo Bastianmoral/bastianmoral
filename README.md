@@ -17,8 +17,6 @@
 ## 🔧 Lenguaje and skills 
 ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,ansible,aws,linux,maven,nginx,openstack,powershell,prometheus,selenium,react,bootstrap,html,css,sass,redux,nodejs,express,graphql,flutter,mongodb,mysql,postgresql,sqlite,aws,docker,jenkins,gcp,kubernetes,heroku,django,flask,jest,figma,postman,git,solidity,deno,githubactions,py,styledcomponents,vscode&perline=7)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bastianmoral&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastianmoral&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
