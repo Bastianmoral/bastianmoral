@@ -1,6 +1,5 @@
 # Hi, I'm Bastián Moral!  🖐🏾
-## A Full Stack MERN - Python Developer
-## DevOps Engineer
+## Full Stack Developer - DevOps Engineer
 
 
 ## 💾 about me!
