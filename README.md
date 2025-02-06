@@ -1,5 +1,5 @@
 # Hi, I'm Bastián Moral!  🖐🏾
-## Full Stack Developer - DevOps Engineer
+## sys admin - DevOps Engineer
 
 
 ## 💾 about me!
