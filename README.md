@@ -1,5 +1,5 @@
 # Hi, I'm Bastián Moral!  🖐🏾
-## sys admin - DevOps Engineer
+## Sys Admin - Data Science & Machine Learniing 
 
 
 ## 💾 about me!
