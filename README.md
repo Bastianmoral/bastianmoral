@@ -3,7 +3,7 @@
 
 
 ## 💾 about me!
-    -I am 34 years old, from Santiago de Chile.
+    -I am 36 years old, from Santiago de Chile.
     -I like video games 🎮 and I love animals 🐮
 
 
